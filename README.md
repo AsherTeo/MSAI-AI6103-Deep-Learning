@@ -4,6 +4,4 @@ In the first assignment, we are required to train a classifier using Resnet-18 t
 
 For the Project, my task was to research and experiment 4 to 5 different Regularization methods using Resnet-18. The purpose of Regularization is to prevent overfitting issue. Therefore, the four methods that I will be using are mainly Stable Weight Decay, Jacobian Regularization, CutMix Augmentation and Drop Block. 
 
-[1] Zeke Xie, Issei Sato, Masashi Sugiyama. UNDERSTANDING AND SCHEDULING WEIGHT DECA. 2021
-[2] 
-
+Overall Grade B+
